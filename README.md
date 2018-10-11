@@ -1,3 +1,4 @@
+## About
 Modal popup window, which has on header a text title and close button. 
 In a body we have a dynamic form, which consists from the dynamic list of elements.
 
@@ -10,6 +11,14 @@ When User clicks on `Save` button, popup will be closed and params will be passe
 object. 
 
 `Cancel` button just closes the window as and Close icon on a top.
+
+# Run
+
+
+`> yarn install`
+
+`> yarn run start`
+
 
 # Application
 ![picture](https://image.ibb.co/fsXRr9/Screenshot_1.jpg)

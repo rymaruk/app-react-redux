@@ -75,6 +75,7 @@ class ItemForm extends React.Component {
                 <Input
                     defaultValue={item.value}
                     className={classes.input}
+                    onChange={event => {onChangeValue({id: item.id, value: event.target.value})}}
                     onKeyUp={event => {onChangeValue({id: item.id, value: event.target.value})}}
                     inputProps={{
                         'type': 'number',

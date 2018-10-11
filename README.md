@@ -11,4 +11,4 @@ object.
 
 `Cancel` button just closes the window as and Close icon on a top.
 
-![picture](https://ibb.co/e8akjU)
+![picture](https://image.ibb.co/dqQ7yp/1.png)
